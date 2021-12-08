@@ -35,7 +35,7 @@ Following keywords are reserved and must not be used for anything else --
 That said, do not use such names for other purposes as stated here.
 
 OBJ=
-----
+---- Test Test 
 
 Parameter *obj=* states for passing directory where simplified Makefile lays in.
 Note the directory name must not end up with a slash, it is mandatory.
